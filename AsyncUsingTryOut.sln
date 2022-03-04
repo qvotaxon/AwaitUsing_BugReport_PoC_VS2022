@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncUsingTryOut", "AsyncUsingTryOut\AsyncUsingTryOut.csproj", "{E71928E0-5AC3-490A-A66F-0CFB4AB0A94E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E71928E0-5AC3-490A-A66F-0CFB4AB0A94E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E71928E0-5AC3-490A-A66F-0CFB4AB0A94E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E71928E0-5AC3-490A-A66F-0CFB4AB0A94E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E71928E0-5AC3-490A-A66F-0CFB4AB0A94E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0791F3BB-6D08-43D4-839F-99316BB6D077}
+	EndGlobalSection
+EndGlobal
